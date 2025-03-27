@@ -85,7 +85,7 @@ Screenshots of graphs, feature importance plots, and performance comparisons can
 
 For any queries, feel free to contact:
 
-🔗 Website: www.ahmei.store
+🔗 Website: www.ahmei.site
 
 🔗 Fiverr Profile: www.fiverr.com/waqasahmed451
 
