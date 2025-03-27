@@ -1,8 +1,11 @@
 Machine Learning Project - Multiple Tasks
+
 📌 Project Overview
+
 This repository contains four different machine learning tasks implemented using Jupyter Notebooks (.ipynb). Each task involves different aspects of machine learning, such as data preprocessing, model training, evaluation, and visualization.
 
 📂 Project Structure
+
 All files are placed in the main directory for easy access:
 
 task_1.ipynb - [Task 1] Data Preprocessing and Exploratory Data Analysis (EDA).
@@ -22,6 +25,7 @@ visuals/ - Screenshots of data visualizations and model performance.
 README.md - Project documentation (this file).
 
 🔧 Installation Guide
+
 1. Clone the Repository
 bash
 Copy
@@ -30,6 +34,7 @@ git clone <your-repository-link>
 cd <your-repository-folder>
 
 2. Install Dependencies
+
 Make sure you have Python and Jupyter Notebook installed, then run:
 
 bash
@@ -38,6 +43,7 @@ Edit
 pip install -r requirements.txt
 
 3. Open Jupyter Notebook
+   
 Launch Jupyter Notebook in the project directory:
 
 bash
@@ -46,6 +52,7 @@ Edit
 jupyter notebook
 
 🚀 How to Run Each Task
+
 🔹 Task 1: Data Preprocessing & EDA
 Open task_1.ipynb and run all cells.
 
@@ -71,10 +78,14 @@ Generates different graphs and plots to understand model performance and dataset
 Screenshots of visualizations are saved in the visuals/ folder.
 
 📸 Visualizations
+
 Screenshots of graphs, feature importance plots, and performance comparisons can be found in the visuals/ folder.
 
 📩 Contact & Support
+
 For any queries, feel free to contact:
+
 🔗 Website: www.ahmei.store
+
 🔗 Fiverr Profile: www.fiverr.com/waqasahmed451
 
